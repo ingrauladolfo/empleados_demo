@@ -1,4 +1,4 @@
-# Crypto Market Analyzer Finsphera Test
+# Empleados Demo Brand Factory Test
 
 Prueba Técnica para Brand Factory para la posición desarrollador jr - 2026
 ## 🛠 Tecnologías usadas
@@ -30,7 +30,7 @@ Prueba Técnica para Brand Factory para la posición desarrollador jr - 2026
         </div>
         <div>
             <a href='https://tailwindcss.com/docs/' target='_blank'>
-                <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.830c8e49.svg"
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png"
                     alt="TailwindCSS" height="50px" />
                 <br>TailwindCSS
             </a>
